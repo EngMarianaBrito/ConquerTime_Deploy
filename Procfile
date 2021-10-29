@@ -1,0 +1,1 @@
+web: gunicorn site_LPB.wsgi --log-file -
